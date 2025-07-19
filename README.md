@@ -15,12 +15,9 @@
 <code><img height="20" alt="sql" src="https://cdn-icons-png.flaticon.com/512/4299/4299956.png"></code>
 <code><img height="20" alt="machinelearning" src="https://cdn-icons-png.flaticon.com/512/8618/8618881.png"></code>  
 <div> 
-
-##
  
 | <a href="https://github.com/AugustoInData/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AugustoInData&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/AugustoInData/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoInData&layout=compact&theme=dark&hide_border=true" /></a> |
-
-##
+| ------------- | ------------- |
 
 <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
