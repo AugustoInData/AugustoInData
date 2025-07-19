@@ -1,7 +1,7 @@
 ## 📌 Sobre mim
 
 Sou formado em Administração e atualmente em transição de carreira para a área de **Análise de Dados**.  
-Tenho direcionado meus estudos para ferramentas e linguagens que me permitam tomar decisões orientadas por dados, com base em evidências e indicadores confiáveis.
+Tenho direcionado meus estudos para ferramentas e linguagens que me permitam tomar decisões orientadas por dados.
 
 Atualmente, aprofundo meus conhecimentos em:
 
@@ -9,13 +9,10 @@ Atualmente, aprofundo meus conhecimentos em:
 - **Power BI** para criação de dashboards interativos  
 - **Python** com foco em análise de dados e automação  
 - **Estatística aplicada**  
-- **Machine Learning (conceitos introdutórios)**  
+- **Machine Learning**  
 
 Também estou cursando uma **Pós-graduação em Business Intelligence e Analytics**, alinhando teoria e prática com foco em aplicações no mercado.
 
-🔗 [Entre em contato pelo LinkedIn](https://www.linkedin.com/in/augustoindata/)
-
----
 
 ## 🛠️ Ferramentas e Tecnologias
 
@@ -37,7 +34,7 @@ Também estou cursando uma **Pós-graduação em Business Intelligence e Analyti
   <a href="https://www.linkedin.com/in/augustoindata/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:seuemail@gmail.com" target="_blank">
+  <a href="mailto:adm.augustocarlos@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
