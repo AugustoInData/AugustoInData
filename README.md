@@ -10,8 +10,7 @@
 - 💬 Vamos conversar? [Clique aqui](https://www.linkedin.com/in/augustoindata/)
 
 ##
-
-<div> 
+ 
 <code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" alt="powerbi" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png"></code>
 <code><img height="20" alt="sql" src="https://cdn-icons-png.flaticon.com/512/4299/4299956.png"></code>
