@@ -17,20 +17,3 @@
 
 | <a href="https://github.com/AugustoInData/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AugustoInData&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/AugustoInData/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoInData&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-#### Top Repositories
-
-
-<a href="https://github.com/AugustoInData/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dark" />
-</a>
-<a href="https://github.com/AugustoInData/AugustoInData.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AugustoInData&repo=AugustoInData.github.io&theme=dark" />
-</a>
-
-<br />
-<br />
-
-<a href="https://www.linkedin.com/in/augustoindata/">
-  <img align="right" alt="Carlos Augusto | Linkedin" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/linkedin.svg" />
-</a>
