@@ -1,31 +1,41 @@
-## 👋 Sobre Mim
+## 📌 Sobre mim
 
-🎯 Em transição de carreira para a área de **Análise de Dados**  
-📊 Estudando SQL, Power BI, Python, Estatística, Machine Learning e cursando **Pós-graduação em Business Intelligence**  
-🧠 Apaixonado por dados, resolução de problemas e geração de insights estratégicos  
-💬 Vamos conversar? [Clique aqui](https://www.linkedin.com/in/augustoindata/)
+Sou formado em Administração e atualmente em transição de carreira para a área de **Análise de Dados**.  
+Tenho direcionado meus estudos para ferramentas e linguagens que me permitam tomar decisões orientadas por dados, com base em evidências e indicadores confiáveis.
+
+Atualmente, aprofundo meus conhecimentos em:
+
+- **SQL** para manipulação e consulta de dados
+- **Power BI** para criação de dashboards interativos
+- **Python** com foco em análise de dados e automação
+- **Estatística aplicada**
+- **Machine Learning (conceitos introdutórios)**
+
+Também estou cursando uma **Pós-graduação em Business Intelligence e Analytics**, alinhando teoria e prática com foco em aplicações no mercado.
+
+🔗 [Entre em contato pelo LinkedIn](https://www.linkedin.com/in/augustoindata/)
 
 ---
 
-## 🚀 Tecnologias que estou aprendendo
+## 🛠️ Ferramentas e Tecnologias
 
-<div style="display: flex; gap: 10px;">
- <img height="30" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
- <img height="30" alt="Power BI" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png"/>
- <img height="30" alt="SQL" src="https://cdn-icons-png.flaticon.com/512/4299/4299956.png"/>
- <img height="30" alt="Machine Learning" src="https://cdn-icons-png.flaticon.com/512/8618/8618881.png"/>
+<div>
+  <img height="30" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
+  <img height="30" alt="Power BI" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png"/>
+  <img height="30" alt="SQL" src="https://cdn-icons-png.flaticon.com/512/4299/4299956.png"/>
+  <img height="30" alt="Machine Learning" src="https://cdn-icons-png.flaticon.com/512/8618/8618881.png"/>
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 | <a href="https://github.com/AugustoInData/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AugustoInData&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" /></a> | <a href="https://github.com/AugustoInData/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoInData&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ---
 
-## 🌐 Onde me encontrar
+## 📬 Contato
 
 <div>
   <a href="https://www.linkedin.com/in/augustoindata/" target="_blank">
