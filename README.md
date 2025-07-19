@@ -38,6 +38,3 @@ Também estou cursando uma **Pós-graduação em Business Intelligence e Analyti
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
-
-📧 E-mail: [adm.augustocarlos@gmail.com](mailto:adm.augustocarlos@gmail.com)
-
