@@ -31,10 +31,13 @@ Também estou cursando uma **Pós-graduação em Business Intelligence e Analyti
 ## Contato
 
 <div>
-  <a href="https://www.linkedin.com/in/augustoindata/" target="_blank">
+  <a href="https://www.linkedin.com/in/augustoindata/">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:adm.augustocarlos@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
+
+📧 E-mail: [adm.augustocarlos@gmail.com](mailto:adm.augustocarlos@gmail.com)
+
