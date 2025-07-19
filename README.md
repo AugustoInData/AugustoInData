@@ -5,11 +5,11 @@ Tenho direcionado meus estudos para ferramentas e linguagens que me permitam tom
 
 Atualmente, aprofundo meus conhecimentos em:
 
-- **SQL** para manipulação e consulta de dados
-- **Power BI** para criação de dashboards interativos
-- **Python** com foco em análise de dados e automação
-- **Estatística aplicada**
-- **Machine Learning (conceitos introdutórios)**
+- **SQL** para manipulação e consulta de dados  
+- **Power BI** para criação de dashboards interativos  
+- **Python** com foco em análise de dados e automação  
+- **Estatística aplicada**  
+- **Machine Learning (conceitos introdutórios)**  
 
 Também estou cursando uma **Pós-graduação em Business Intelligence e Analytics**, alinhando teoria e prática com foco em aplicações no mercado.
 
@@ -26,14 +26,10 @@ Também estou cursando uma **Pós-graduação em Business Intelligence e Analyti
   <img height="30" alt="Machine Learning" src="https://cdn-icons-png.flaticon.com/512/8618/8618881.png"/>
 </div>
 
----
-
 ## 📊 Estatísticas do GitHub
 
 | <a href="https://github.com/AugustoInData/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AugustoInData&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" /></a> | <a href="https://github.com/AugustoInData/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoInData&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
-
----
 
 ## 📬 Contato
 
