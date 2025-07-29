@@ -36,7 +36,7 @@ Também estou cursando uma **Pós-graduação em Business Intelligence e Analyti
   </a>
   <a href="https://www.linkedin.com/in/augustoindata/">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+  
   <a href="https://www.kaggle.com/carxaug">
     <img src="https://img.shields.io/badge/-Kaggle-%23333?style=for-the-badge&logo=kaggle&logoColor=white">
   </a>
