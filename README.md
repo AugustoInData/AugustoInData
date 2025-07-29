@@ -37,4 +37,7 @@ Também estou cursando uma **Pós-graduação em Business Intelligence e Analyti
   <a href="mailto:adm.augustocarlos@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  <a href="https://www.kaggle.com/carxaug">
+    <img src="https://img.shields.io/badge/-Kaggle-%23333?style=for-the-badge&logo=kaggle&logoColor=white">
+  
 </div>
