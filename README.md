@@ -25,7 +25,7 @@ Também estou cursando uma **Pós-graduação em Business Intelligence e Analyti
 
 ## Estatísticas do GitHub
 
-| <a href="https://github.com/AugustoInData/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AugustoInData&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" /></a> | <a href="https://github.com/AugustoInData/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoInData&layout=compact&theme=dark&hide_border=true" /></a> |
+| <a href="https://github.com/AugustoInData/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AugustoInData&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&cache_bust=1" /></a> | <a href="https://github.com/AugustoInData/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoInData&layout=compact&theme=dark&hide_border=true&cache_bust=1" /></a> |
 | ------------- | ------------- |
 
 ## Contato
