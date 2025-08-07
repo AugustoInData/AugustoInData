@@ -23,6 +23,7 @@ Também estou cursando uma **Pós-graduação em Business Intelligence e Analyti
   <img height="30" alt="NumPy" src="https://img.icons8.com/?size=512&id=aR9CXyMagKIS&format=png"/> 
   <img height="30" alt="Pandas" src="https://img.icons8.com/color/600/pandas.png"/>
   <img height="30" alt="MatPlotLib" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png"/>
+  <img height="30" alt="MatPlotLib" src="https://images.seeklogo.com/logo-png/44/1/seaborn-logo-png_seeklogo-441844.png"/>
 
   
 </div>
