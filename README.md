@@ -20,6 +20,7 @@ Também estou cursando uma **Pós-graduação em Business Intelligence e Analyti
   <img height="30" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
   <img height="30" alt="Power BI" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png"/>
   <img height="30" alt="SQL" src="https://64.media.tumblr.com/ec57a9abccbdfcfdd234a1d7ce60872e/1adc0a0257f98ada-4a/s540x810/dc16e674cca039859d5abecae9dbf71d1afbadd5.pnj"/>
+  <img height="30" alt="NumPy" src="https://user-images.githubusercontent.com/98330/64479473-4b35c900-d16c-11e9-89d3-9679a0a9af3c.png"/>
 </div>
 
 ## Estatísticas do GitHub
