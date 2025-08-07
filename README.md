@@ -22,6 +22,9 @@ Também estou cursando uma **Pós-graduação em Business Intelligence e Analyti
   <img height="30" alt="SQL" src="https://64.media.tumblr.com/ec57a9abccbdfcfdd234a1d7ce60872e/1adc0a0257f98ada-4a/s540x810/dc16e674cca039859d5abecae9dbf71d1afbadd5.pnj"/>
   <img height="30" alt="NumPy" src="https://img.icons8.com/?size=512&id=aR9CXyMagKIS&format=png"/> 
   <img height="30" alt="Pandas" src="https://img.icons8.com/color/600/pandas.png"/>
+  <img height="30" alt="MatPlotLib" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png"/>
+
+  
 </div>
 
 ## Estatísticas do GitHub
