@@ -26,7 +26,7 @@ Também estou cursando uma **Pós-graduação em Business Intelligence e Analyti
 <div>
   <img height="30" alt="Databricks" src="https://raw.githubusercontent.com/AugustoInData/AugustoInData/refs/heads/main/images/databricks_icon.png"/>
   <img height="30" alt="SQL" src="https://github.com/AugustoInData/AugustoInData/blob/main/images/sql_icon.png"/>
-  <img height="30" alt="Python" src="https://github.com/AugustoInData/AugustoInData/blob/main/images/python_icon.png"/>
+  <img height="35" alt="Python" src="https://github.com/AugustoInData/AugustoInData/blob/main/images/python_icon.png"/>
   <img height="30" alt="NumPy" src="https://raw.githubusercontent.com/AugustoInData/AugustoInData/refs/heads/main/images/numpy_icon.png"/> 
   <img height="30" alt="Pandas" src="https://raw.githubusercontent.com/AugustoInData/AugustoInData/refs/heads/main/images/pandas_icon.png"/>
   <img height="30" alt="Seaborn" src="https://github.com/AugustoInData/AugustoInData/blob/main/images/seaborn_icon.png"/>
