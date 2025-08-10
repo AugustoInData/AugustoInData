@@ -24,13 +24,13 @@ Também estou cursando uma **Pós-graduação em Business Intelligence e Analyti
 ## Ferramentas e Tecnologias
 
 <div>
-  <img height="30" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
-  <img height="30" alt="Power BI" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png"/>
-  <img height="30" alt="SQL" src="https://64.media.tumblr.com/ec57a9abccbdfcfdd234a1d7ce60872e/1adc0a0257f98ada-4a/s540x810/dc16e674cca039859d5abecae9dbf71d1afbadd5.pnj"/>
-  <img height="30" alt="NumPy" src="https://img.icons8.com/?size=512&id=aR9CXyMagKIS&format=png"/> 
-  <img height="30" alt="Pandas" src="https://img.icons8.com/color/600/pandas.png"/>
-  <img height="30" alt="MatPlotLib" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png"/>
-  <img height="30" alt="MatPlotLib" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"/>
+  <img height="30" alt="Python" src="https://github.com/AugustoInData/AugustoInData/blob/main/images/python_icon.png"/>
+  <img height="30" alt="Power BI" src="https://github.com/AugustoInData/AugustoInData/blob/main/images/powerbi_icon.png"/>
+  <img height="30" alt="SQL" src="https://github.com/AugustoInData/AugustoInData/blob/main/images/sql_icon.png"/>
+  <img height="30" alt="NumPy" src="https://raw.githubusercontent.com/AugustoInData/AugustoInData/refs/heads/main/images/numpy_icon.png"/> 
+  <img height="30" alt="Pandas" src="https://raw.githubusercontent.com/AugustoInData/AugustoInData/refs/heads/main/images/pandas_icon.png"/>
+  <img height="30" alt="Seaborn" src="https://github.com/AugustoInData/AugustoInData/blob/main/images/seaborn_icon.png"/>
+  <img height="30" alt="MatPlotLib" src="https://raw.githubusercontent.com/AugustoInData/AugustoInData/refs/heads/main/images/matplotlib_icon.png"/>
 
   
 </div>
