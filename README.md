@@ -34,9 +34,9 @@ Também estou cursando uma **Pós-graduação em Business Intelligence e Analyti
   <img height="30" alt="Scikit" src="https://github.com/AugustoInData/AugustoInData/blob/main/images/scikit_icon.png"/>
   <img height="30" alt="Power BI" src="https://raw.githubusercontent.com/AugustoInData/AugustoInData/refs/heads/main/images/powerbi_icon.png"/>
   <img height="30" alt="Excel" src="https://raw.githubusercontent.com/AugustoInData/AugustoInData/refs/heads/main/images/excel_icon.png"/>
-  <img height="30" alt="VS Code" src="https://raw.githubusercontent.com/AugustoInData/AugustoInData/refs/heads/main/images/vscode_icon.png"/>
   <img height="30" alt="Collab" src="https://raw.githubusercontent.com/AugustoInData/AugustoInData/refs/heads/main/images/collab_icon.png"/>
-  <img height="30" alt="Jupyter" src="https://raw.githubusercontent.com/AugustoInData/AugustoInData/refs/heads/main/images/jupyter_icon.png"/> 
+  <img height="30" alt="Jupyter" src="https://raw.githubusercontent.com/AugustoInData/AugustoInData/refs/heads/main/images/jupyter_icon.png"/>
+  <img height="27" alt="VS Code" src="https://raw.githubusercontent.com/AugustoInData/AugustoInData/refs/heads/main/images/vscode_icon.png"/>
   
 
   
