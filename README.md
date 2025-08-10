@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/AugustoInData/AugustoInData/refs/heads/main/images/BLack%20Minimalist%20Corporate%20Staff%20Identity%20LinkedIn%20Banner.png"
+  <img src="https://raw.githubusercontent.com/AugustoInData/AugustoInData/refs/heads/main/images/cabecalho_perfil.png"
        alt="Cabeçalho" width="900"
        style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.3);">
 </div>
