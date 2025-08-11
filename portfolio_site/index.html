@@ -1,221 +1,50 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Portfólio - Carlos Augusto</title>
-
-  <!-- Fonte profissional -->
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
-
-  <style>
-    :root {
-      --primary: #1e3a8a; /* Azul sóbrio */
-      --secondary: #2563eb; /* Azul destaque */
-      --bg: #f8f9fa; /* Fundo claro */
-      --text: #1f2937; /* Cinza escuro */
-      --card-bg: #ffffff;
-      --border: #e5e7eb;
-    }
-
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-      font-family: 'Inter', sans-serif;
-    }
-
-    body {
-      background: var(--bg);
-      color: var(--text);
-      line-height: 1.6;
-    }
-
-    header {
-      text-align: center;
-      padding: 2.5rem 1rem;
-      background: var(--card-bg);
-      border-bottom: 1px solid var(--border);
-    }
-
-    header img {
-      width: 120px;
-      height: 120px;
-      object-fit: cover;
-      border-radius: 50%;
-      border: 3px solid var(--border);
-      margin-bottom: 1rem;
-    }
-
-    header h1 {
-      font-size: 2rem;
-      font-weight: 700;
-      margin-bottom: 0.3rem;
-    }
-
-    header p {
-      font-size: 1rem;
-      color: #4b5563;
-    }
-
-    nav {
-      text-align: center;
-      padding: 0.8rem 0;
-      background: var(--primary);
-    }
-
-    nav a {
-      color: #fff;
-      margin: 0 1rem;
-      text-decoration: none;
-      font-weight: 500;
-      transition: color 0.3s;
-    }
-
-    nav a:hover {
-      color: var(--secondary);
-    }
-
-    main {
-      max-width: 900px;
-      margin: 2rem auto;
-      padding: 0 1rem;
-    }
-
-    h2 {
-      color: var(--primary);
-      margin-bottom: 1rem;
-      font-size: 1.5rem;
-      border-bottom: 2px solid var(--border);
-      padding-bottom: 0.3rem;
-    }
-
-    .card {
-      background: var(--card-bg);
-      border: 1px solid var(--border);
-      border-radius: 8px;
-      padding: 1.5rem;
-      margin-bottom: 1.5rem;
-      transition: box-shadow 0.3s, transform 0.3s;
-    }
-
-    .card:hover {
-      box-shadow: 0 4px 12px rgba(0,0,0,0.06);
-      transform: translateY(-3px);
-    }
-
-    .card h3 {
-      color: var(--secondary);
-      margin-bottom: 0.5rem;
-    }
-
-    .card p {
-      color: #4b5563;
-      margin-bottom: 1rem;
-    }
-
-    .links a {
-      display: inline-block;
-      background: var(--secondary);
-      color: white;
-      padding: 0.4rem 0.8rem;
-      border-radius: 4px;
-      text-decoration: none;
-      margin-right: 0.7rem;
-      font-size: 0.9rem;
-      transition: background 0.3s;
-    }
-
-    .links a:hover {
-      background: #1d4ed8;
-    }
-
-    footer {
-      text-align: center;
-      padding: 1.5rem 0;
-      background: var(--card-bg);
-      border-top: 1px solid var(--border);
-      font-size: 0.9rem;
-      color: #6b7280;
-      margin-top: 3rem;
-    }
-
-    /* Responsivo */
-    @media (max-width: 600px) {
-      header h1 {
-        font-size: 1.5rem;
-      }
-      nav a {
-        display: inline-block;
-        margin: 0.5rem;
-      }
-    }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfólio de Análise de Dados</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-
-  <header>
-    <img src="sua-foto.jpg" alt="Foto de Carlos Augusto">
-    <h1>Carlos Augusto</h1>
-    <p>Analista de Dados • Python • SQL • Power BI</p>
-  </header>
-
-  <nav>
-    <a href="#sobre">Sobre</a>
-    <a href="#projetos">Projetos</a>
-    <a href="#dashboards">Dashboards</a>
-    <a href="#contato">Contato</a>
-  </nav>
-
-  <main>
-    <section id="sobre">
-      <h2>Sobre Mim</h2>
-      <p>Sou analista de dados em formação, com experiência prática em Python, SQL e Power BI. Apaixonado por transformar dados em informações estratégicas, meu objetivo é criar soluções que otimizem processos e auxiliem na tomada de decisões.</p>
-    </section>
-
-    <section id="projetos">
-      <h2>Projetos</h2>
-
-      <div class="card">
-        <h3>Análise de Vendas</h3>
-        <p>Análise exploratória e modelo preditivo de vendas utilizando regressão linear, com insights visuais.</p>
-        <div class="links">
-          <a href="https://github.com/seuusuario/projeto-vendas" target="_blank">GitHub</a>
-          <a href="https://link-dashboard.com" target="_blank">Dashboard</a>
+    <header>
+        <div class="container">
+            <img src="minha-foto.jpeg" alt="Sua Foto" class="profile-pic">
+            <h1>Carlos Augusto</h1>
+            <p>Analista de Dados | Dashboards e Projetos</p>
         </div>
-      </div>
+    </header>
 
-      <div class="card">
-        <h3>Previsão de Demanda</h3>
-        <p>Modelo de regressão para estimar demanda futura com base em dados históricos e variáveis externas.</p>
-        <div class="links">
-          <a href="https://github.com/seuusuario/projeto-demanda" target="_blank">GitHub</a>
-        </div>
-      </div>
-    </section>
+    <main class="container">
+        <section>
+            <h2>Sobre Mim</h2>
+            <p>Sou analista de dados apaixonado por transformar dados em insights estratégicos, utilizando ferramentas como Python, SQL, Power BI e Excel. Aqui você encontrará meus principais projetos e dashboards.</p>
+        </section>
 
-    <section id="dashboards">
-      <h2>Dashboards</h2>
+        <section>
+            <h2>Projetos</h2>
+            <div class="grid">
+                <div class="card">
+                    <h3>📊 Dashboard de Vendas</h3>
+                    <p>Análise de vendas com Power BI, incluindo métricas e tendências de mercado.</p>
+                    <a href="#" target="_blank">Ver Projeto</a>
+                </div>
+                <div class="card">
+                    <h3>🤖 Previsão de Vendas</h3>
+                    <p>Modelo de regressão linear para prever vendas de jogos de videogame.</p>
+                    <a href="#" target="_blank">Ver Projeto</a>
+                </div>
+                <div class="card">
+                    <h3>📈 Análise de Clientes</h3>
+                    <p>Segmentação de clientes com Python e SQL para estratégias de marketing.</p>
+                    <a href="#" target="_blank">Ver Projeto</a>
+                </div>
+            </div>
+        </section>
+    </main>
 
-      <div class="card">
-        <h3>Dashboard Financeiro</h3>
-        <p>Indicadores financeiros e métricas de desempenho desenvolvidos no Power BI.</p>
-        <div class="links">
-          <a href="https://link-dashboard-financeiro.com" target="_blank">Ver Dashboard</a>
-        </div>
-      </div>
-    </section>
-
-    <section id="contato">
-      <h2>Contato</h2>
-      <p>📧 <a href="mailto:adm.augustocarlos@email.com">carlosaugusto@email.com</a></p>
-      <p>💼 <a href="https://linkedin.com/in/augustoindata" target="_blank">LinkedIn</a></p>
-    </section>
-  </main>
-
-  <footer>
-    <p>© 2025 Carlos Augusto - Todos os direitos reservados</p>
-  </footer>
-
+    <footer>
+        <p>© 2025 Carlos Augusto - Todos os direitos reservados</p>
+    </footer>
 </body>
 </html>
