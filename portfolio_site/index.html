@@ -6,16 +6,17 @@
 <title>Portfólio Profissional - Carlos Augusto</title>
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&family=Segoe+UI&display=swap" rel="stylesheet" />
 <style>
-body {
-  background-color: #f5f7fa; /* cinza muito claro */
-  color: #333333;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  margin: 0;
-  padding: 40px 20px;
-  display: flex;
-  justify-content: center;
-  scroll-behavior: smooth;
-}
+  body {
+    background-color: #f5f7fa; /* cinza muito claro */
+    color: #333333;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 40px 20px;
+    display: flex;
+    justify-content: center;
+    scroll-behavior: smooth;
+  }
+
   #root {
     max-width: 900px;
     width: 100%;
@@ -79,6 +80,33 @@ body {
     color: #506285;
     font-weight: 500;
     letter-spacing: 0.03em;
+  }
+
+  .btn-group {
+    margin-top: 12px;
+    display: flex;
+    gap: 14px;
+  }
+
+  .btn-download,
+  .btn-contact {
+    background: linear-gradient(135deg, #243a66, #2A3F66);
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 12px;
+    font-weight: 600;
+    font-size: 0.95rem;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+    box-shadow: 0 6px 12px #1f3150cc;
+    transition: background 0.4s ease, box-shadow 0.4s ease;
+  }
+
+  .btn-download:hover,
+  .btn-contact:hover {
+    background: linear-gradient(135deg, #1f3150, #223b5b);
+    box-shadow: 0 10px 20px #17273bcc;
   }
 
   main section {
@@ -247,7 +275,20 @@ body {
       e('img', { src: photo, alt: `Foto de ${name}`, loading: "lazy" }),
       e('div', null,
         e('h1', null, name),
-        e('p', null, title)
+        e('p', null, title),
+        e('div', { className: 'btn-group' },
+          e('a', {
+            href: "https://raw.githubusercontent.com/AugustoInData/AugustoInData/main/cv/cv.pdf",
+            download: "Carlos_Augusto_CV.pdf",
+            target: "_blank",
+            rel: "noopener noreferrer",
+            className: "btn-download"
+          }, "Download CV"),
+          e('a', {
+            href: "#contato",
+            className: "btn-contact"
+          }, "Contato")
+        )
       )
     );
   }
